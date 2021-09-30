@@ -32,7 +32,7 @@ def main(argv=None):
         return 0
 
     print('requirements.txt updated!')
-    return 1
+    return 2
 
 
 if __name__ == '__name__':
