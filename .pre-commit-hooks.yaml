@@ -3,3 +3,4 @@
   description: pre-commit hook to keep requirements.txt updated
   entry: poetry-export
   language: python
+  files: '^poetry.lock$'
