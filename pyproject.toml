@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pre-commit-poetry-export"
-version = "0.1.2"
+version = "0.2.0"
 description = "pre-commit hook to keep requirements.txt updated"
 authors = ["Antonio Luckwu <victor.luckwu@gmail.com>"]
 license = "MIT"
