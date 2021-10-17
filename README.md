@@ -1,6 +1,7 @@
 # pre-commit-poetry-export
 
 ![tests workflow](https://github.com/smsearcy/pre-commit-poetry-export/actions/workflows/tests.yml/badge.svg)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 [pre-commit](https://pre-commit.com/) hook to keep `requirements.txt` updated in a project that uses [Poetry](https://python-poetry.org/) for managing dependencies.
 
